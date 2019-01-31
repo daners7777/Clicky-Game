@@ -1,9 +1,3 @@
-# Simpsons Clicky Game
+# Seinfeld Clicky Game
 
-#### Test your memory with your favorite friends from *The Simpsons*.
-
-#### Click on each character once to win the game. But don't click on a character twice, or it's game over for you!
-
-#### Built with React. Check it out [here](https://wllm-chndlr.github.io/clicky-game/).
-
-![screenshot](public/screenshot.png)
+A memory game with React. This assignment will require you to break up your application's UI into components, manage component state, and respond to user events.
